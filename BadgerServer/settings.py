@@ -83,16 +83,16 @@ WSGI_APPLICATION = 'BadgerServer.wsgi.application'
 #     }
 # }
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'HomeWeb',
-        'USER': 'root',
-        'PASSWORD': 'Crystal8230',
-        'HOST': 'coolbadger.com',
-        'PORT': '3306',
-    }
-}
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql',
+#         'NAME': 'HomeWeb',
+#         'USER': 'root',
+#         'PASSWORD': 'Crystal8230',
+#         'HOST': 'coolbadger.com',
+#         'PORT': '3306',
+#     }
+# }
 
 
 # Password validation
